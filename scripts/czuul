@@ -37,7 +37,7 @@ import urwid
 LOG = logging.getLogger(__name__)
 
 ### DEFAULT SETTINGS
-ZUUL_URL = 'http://zuul.openstack.org/status.json'
+ZUUL_URL = 'http://zuul.openstack.org/status'
 ZUUL_FREQ = 30
 ZUUL_MIN_FREQ = 5
 ALARM_FREQ = 0.5

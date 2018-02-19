@@ -146,7 +146,7 @@ urwid_ and the requests_ libraries):
     Options:
       -h, --help            show this help message and exit
       -s URL, --server=URL  zuul server [default:
-                            http://zuul.openstack.org/status.json]
+                            http://zuul.openstack.org/status]
       --split-screens=SCREENS
                             split screen count [default: 3]
       -p PIPELINE, --pipeline=PIPELINE
